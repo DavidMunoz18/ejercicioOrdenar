@@ -1,0 +1,14 @@
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.AssemblyInfoInputs.cache
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.AssemblyInfo.cs
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.csproj.CoreCompileInputs.cache
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\bin\Debug\net8.0\ejercicioRepaso.exe
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\bin\Debug\net8.0\ejercicioRepaso.deps.json
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\bin\Debug\net8.0\ejercicioRepaso.runtimeconfig.json
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\bin\Debug\net8.0\ejercicioRepaso.dll
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\bin\Debug\net8.0\ejercicioRepaso.pdb
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.dll
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\refint\ejercicioRepaso.dll
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.pdb
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ejercicioRepaso.genruntimeconfig.cache
+C:\Users\Julio\source\repos\ejercicioRepaso\ejercicioRepaso\obj\Debug\net8.0\ref\ejercicioRepaso.dll
